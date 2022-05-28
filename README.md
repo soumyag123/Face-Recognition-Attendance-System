@@ -3,8 +3,6 @@
 <h1 align="center"><img align="center" src="./Images/microsoft.png" alt="Logo" width="40" height="40">Microsoft Engage - 2022</h1>
 
 <p align="center">
-<a target="_blank" href="https://github.com/othneildrew/Best-README-Template">Link to App</a>
-  :white_small_square:
 <a target="_blank" href="https://github.com/othneildrew/Best-README-Template/issues">Video demo</a>
 </p>
 </div>
