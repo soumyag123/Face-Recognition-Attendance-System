@@ -1,0 +1,32 @@
+.daily-table{
+    margin-top: 3rem;
+    margin-left: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+table{
+    border: 2px solid blue;
+    width: 75%;
+}
+
+tr th{
+    border-bottom: 2px solid blue;
+    padding: 7px;
+    text-align: center;
+    border-right: 2px solid blue;
+}
+
+tr td{
+    text-align: center;
+    border-bottom: 2px solid blue;
+    border-right: 2px solid blue;
+}
+.main-container{
+    margin-left: 350px;
+      margin-top: 3rem;
+      background: linear-gradient(to top right, #7a79ea 0%, #095659 100%);
+      padding: 15px;
+      width: 55%;
+  }

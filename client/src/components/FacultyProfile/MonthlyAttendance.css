@@ -1,0 +1,36 @@
+.first-container{
+    margin-top: 2rem;
+    margin-left: 350px;
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(to top right, #7a79ea 0%, #095659 100%);
+    padding: 18px;
+    width: 60%;
+}
+.inputDiv{
+    display: flex;
+    flex-direction: row;
+    margin-top: 1rem;
+    justify-content: space-between;
+}
+.inputField{
+    display: flex;
+    flex-direction: row;
+}
+.input{
+    height: 30px;
+    margin-left: 0.5rem;
+    border: none;
+    padding: 3px;
+}
+.btnDiv{
+    margin-top: 0.5rem;
+    padding-left: 50%;
+}
+.btnDiv input{
+    padding: 4px;
+    border: none;
+}
+h4{
+    font-weight: bold;
+}
