@@ -41,7 +41,6 @@
         <li><a href="#generate-code-and-send-email">Generate Code and Send Email</a></li>
         <li><a href="#authenticate-code-and-mark-attendance">Marking Attendance</a></li>
         <li><a href="#view-daily-and-datewise-attendance-sheet">Attendance Sheet</a></li>
-        <li><a href="#student-and-faculty-login">Login</a></li>
         <li><a href="#chatbox-feature">ChatBox</a></li>
       </ul>
     <li><a href="#need-help">Need Help?</a></li>
