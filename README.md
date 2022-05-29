@@ -5,7 +5,7 @@
 <p align="center">
 <a target="_blank" href="https://demo-abd.herokuapp.com/">Link to App</a>
      ·
- <a target="_blank" href="https://youtu.be/O7uGtnhZe2s">Video Demo</a>
+ <a target="_blank" href="https://youtu.be/0bLLL2Lfb6U">Video Demo</a>
 </p>
 </div>
 
