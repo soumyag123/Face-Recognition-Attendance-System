@@ -97,12 +97,6 @@ SCRUM is a subset of Agile, a framework for developing software. SCRUM takes adv
 3. Make sure you sit close to the camera with your face clearly visible at the time of marking attendance.
 4. Make sure to capture clear image, with face clearly visible at the time of registration of Student.
 
-## Before Installation
-1. Set up your .env file variables in the server folder.
-2. Replace the MONGO_URL with your own MongoDB url. Refer to https://medium.com/featurepreneur/how-to-create-a-cluster-in-mongodb-28996662b3ac to create your cluster and set up your database.
-3. Replace EMAIL and PASS with your own email id and password you want to use for Nodemailer.
-4. Replace OAUTH_CLIENTID, OAUTH_CLIENT_SECRET and OAUTH_REFRESH_TOKEN with your own Google Cloud API Credentials. Refer to https://dev.to/chandrapantachhetri/sending-emails-securely-using-node-js-nodemailer-smtp-gmail-and-oauth2-g3a to create your OAUTH Credentials. 
-
 ## Getting Started
 ```sh
   git clone https://github.com/soumyag123/Face-Recognition-Attendance-System.git
@@ -110,6 +104,13 @@ SCRUM is a subset of Agile, a framework for developing software. SCRUM takes adv
 ```sh
   cd Face-Recognition-Attendance-System
 ```
+
+## Before Installation
+1. Set up your .env file variables in the server folder.
+2. Replace the MONGO_URL with your own MongoDB url. Refer to https://medium.com/featurepreneur/how-to-create-a-cluster-in-mongodb-28996662b3ac to create your cluster and set up your database.
+3. Replace EMAIL and PASS with your own email id and password you want to use for Nodemailer.
+4. Replace OAUTH_CLIENTID, OAUTH_CLIENT_SECRET and OAUTH_REFRESH_TOKEN with your own Google Cloud API Credentials. Refer to https://dev.to/chandrapantachhetri/sending-emails-securely-using-node-js-nodemailer-smtp-gmail-and-oauth2-g3a to create your OAUTH Credentials. 
+
 
 ### Installation
 Run the following commands to start the server side.
