@@ -7,7 +7,6 @@
      ·
  <a target="_blank" href="https://youtu.be/O7uGtnhZe2s">Video Demo</a>
 </p>
-</p>
 </div>
 
 <!-- TABLE OF CONTENTS -->
