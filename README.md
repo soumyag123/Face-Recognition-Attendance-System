@@ -30,6 +30,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#points-to-remember-while-testing-the-app">Points to remember while testing the app</a></li>
+        <li><a href="#before-installation">Before Installation</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -96,31 +97,44 @@ SCRUM is a subset of Agile, a framework for developing software. SCRUM takes adv
 3. Make sure you sit close to the camera with your face clearly visible at the time of marking attendance.
 4. Make sure to capture clear image, with face clearly visible at the time of registration of Student.
 
+## Before Installation
+1. Set up your .env file variables in the server folder.
+2. Replace the MONGO_URL with your own MongoDB url. Refer to https://medium.com/featurepreneur/how-to-create-a-cluster-in-mongodb-28996662b3ac to create your cluster and set up your database.
+3. Replace EMAIL and PASS with your own email id and password you want to use for Nodemailer.
+4. Replace OAUTH_CLIENTID, OAUTH_CLIENT_SECRET and OAUTH_REFRESH_TOKEN with your own Google Cloud API Credentials. Refer to https://dev.to/chandrapantachhetri/sending-emails-securely-using-node-js-nodemailer-smtp-gmail-and-oauth2-g3a to create your OAUTH Credentials. 
+
 ## Getting Started
 ```sh
-  git clone 
+  git clone https://github.com/soumyag123/Face-Recognition-Attendance-System.git
 ```
 ```sh
-  cd 
+  cd Face-Recognition-Attendance-System
 ```
 
 ### Installation
-Make sure to install the required dependencies via node package manager
+Run the following commands to start the server side.
+```sh
+  cd server
+```
 ```sh
   npm install 
 ```
-
-Run the following commands to start the server side.
-
 ```sh
   npm start
 ```
-Run the following commands to start the client side and run it on your local host
+
+Run cd.. to go the main directory.
+
+Run the following commands to start the client side.
+
 ```sh
   cd client
 ```
 ```sh
-  npm install && npm start
+  npm install
+```
+```sh
+  npm start
 ```
 Your app is now running on http://localhost:3000
 
