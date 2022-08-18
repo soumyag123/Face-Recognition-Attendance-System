@@ -54,7 +54,7 @@
 
 ## About The Project
 * Face Recognition Attendance System built during Microsoft Engage 2022. 
-* The project aims to elimate the current conventional attendance system which is done manually. 
+* The project aims to eliminate the current conventional attendance system which is done manually. 
 * It detects and matches student face to mark attendance automatically.
 * The faculty generates the unique authentication code which is validated on student side to mark attendance.
 
